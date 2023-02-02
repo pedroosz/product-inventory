@@ -16,9 +16,7 @@ DELETE /products/:id - delete a product
 
 ##### Dependencies
 
-`npm install express` 
-
-`npm install prisma @types/node @types/express typescript --save-dev`
+Just run `npm install` or `yarn` to install all dependencies. 
 
 ##### Set up prisma
 
